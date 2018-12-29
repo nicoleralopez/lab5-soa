@@ -11,4 +11,5 @@ NIA    | User name | Repo | Improvement | Score
 | 651943 | [Víctor Fernández Melic](https://github.com/Melic93) |[test](https://github.com/Melic93/lab5-soa/tree/test) | |
 | 718997 | [Abel Chils Trabanco](https://github.com/AbelChT) | [Test branch](https://github.com/AbelChT/lab5-soa/tree/test) | 
 | 720100 | [Roberto CCU](https://github.com/robertoccu) |[test](https://github.com/robertoccu/lab5-soa/tree/test) | | 
+| 706430 | [Óscar Saboya Gómez](https://github.com/oscarsa) |[test](https://github.com/oscarsa/lab5-soa/tree/test) | | 
 | | | | |
