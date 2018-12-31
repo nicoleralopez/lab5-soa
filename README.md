@@ -13,4 +13,4 @@ NIA    | User name | Repo | Improvement | Score
 | 720100 | [Roberto CCU](https://github.com/robertoccu) |[test](https://github.com/robertoccu/lab5-soa/tree/test) | |
 | 706430 | [Óscar Saboya Gómez](https://github.com/oscarsa) |[test](https://github.com/oscarsa/lab5-soa/tree/test) | |
 | 614590 | [David Mañas Vidorreta](https://github.com/davidmavi16) |[test](https://github.com/davidmavi16/lab5-soa/tree/test) | | 
-| | | | |
+| 652326 | [Maria Lazaro Muñio](https://github.com/mariaarino93) |[test](https://github.com/mariaarino93/lab5-soa/tree/test) | | 
