@@ -14,3 +14,5 @@ NIA    | User name | Repo | Improvement | Score
 | 706430 | [Óscar Saboya Gómez](https://github.com/oscarsa) |[test](https://github.com/oscarsa/lab5-soa/tree/test) | |
 | 614590 | [David Mañas Vidorreta](https://github.com/davidmavi16) |[test](https://github.com/davidmavi16/lab5-soa/tree/test) | | 
 | 652326 | [Maria Lazaro Muñio](https://github.com/mariaarino93) |[test](https://github.com/mariaarino93/lab5-soa/tree/test) | | 
+| 704130 | [David Sáez García](https://github.com/Davidigea) |[test](https://github.com/davidigea/lab5-soa/tree/test) | |
+
