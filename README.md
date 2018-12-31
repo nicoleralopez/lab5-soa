@@ -16,4 +16,4 @@ NIA    | User name | Repo | Improvement | Score
 | 652326 | [Maria Lazaro Muñio](https://github.com/mariaarino93) |[test](https://github.com/mariaarino93/lab5-soa/tree/test) | | 
 | 704130 | [David Sáez García](https://github.com/Davidigea) |[test](https://github.com/davidigea/lab5-soa/tree/test) | |
 | 718556 | [Gonzalo Torrecillas](https://github.com/gonzalotp) |[test](https://github.com/gonzalotp/lab5-soa/tree/test) | |
-| 718556 | [Nicolás Lera López](https://github.com/nicoleralopez) |[test](https://github.com/nicoleralopez/lab5-soa/tree/test) | |
+| 721808 | [Nicolás Lera López](https://github.com/nicoleralopez) |[test](https://github.com/nicoleralopez/lab5-soa/tree/test) | |
